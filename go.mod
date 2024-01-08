@@ -6,7 +6,7 @@ require (
 	github.com/aws-cloudformation/cloudformation-cli-go-plugin v1.2.0
 	github.com/aws/aws-sdk-go v1.48.6
 	github.com/cbroglie/mustache v1.4.0
-	github.com/go-resty/resty/v2 v2.10.0
+	github.com/go-resty/resty/v2 v2.11.0
 	github.com/graphql-go/graphql v0.8.1
 	github.com/sirupsen/logrus v1.9.3
 )
